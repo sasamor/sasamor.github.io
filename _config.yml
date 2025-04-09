@@ -6,9 +6,9 @@ plugins:
   - jekyll-sitemap
 
 # Site information
-title: "Taro Yamada – Planetary Biophysics Lab"
+title: "笹森貫佑(Kansuke Sasamori)のホームページ"
 email: "taro@example.ac.jp"
-description: "Research on planetary evolution, biophysics, and gene regulatory networks"
+description: "東京大学大学院理学系研究科物理学専攻修士課程2年。"
 
 # Build settings
 markdown: kramdown
