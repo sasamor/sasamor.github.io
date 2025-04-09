@@ -7,13 +7,13 @@ nav_order: 2
 {% include nav-links.html %}
 
 <div class="lang-jp">
-## 研究者情報
-- 所属: …
-- 研究分野: …
+神奈川県立湘南高等学校<br>
+東京大学理科二類<br>
+東京大学理学部物理学科<br>
+東京大学理学系研究科物理学専攻(古澤力研究室)
 </div>
 
 <div class="lang-en">
-## Profile
-- Affiliation: …
-- Research areas: …
+Shonan high school<br>
+Furusawa Lab. @ Department of Physics, Graduate School of Science, the University of Tokyo
 </div>
