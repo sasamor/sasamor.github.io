@@ -12,7 +12,7 @@ nav_order: 1
 
 <div class="lang-jp">
 # ようこそ
-Taro Yamada 研究室へようこそ。…
+Taro Yamada 研究室へようこそ。
 </div>
 
 <div class="lang-en">
