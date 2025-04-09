@@ -6,9 +6,9 @@ plugins:
   - jekyll-sitemap
 
 # Site information
-title: "笹森貫佑(Kansuke Sasamori)のホームページ"
+title: "笹森貫佑(Kansuke Sasamori)"
 email: "taro@example.ac.jp"
-description: "東京大学大学院理学系研究科物理学専攻修士課程2年。"
+description: "東京大学大学院理学系研究科物理学専攻修士課程2年"
 
 # Build settings
 markdown: kramdown
