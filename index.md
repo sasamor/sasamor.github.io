@@ -3,7 +3,10 @@ layout: default
 title: Home
 nav_order: 1
 ---
-{% include lang-switcher.html %}
+<div class="lang-switcher">
+  <span class="lang-btn" data-lang="jp">JP</span> |
+  <span class="lang-btn" data-lang="en">EN</span>
+</div>
 
 ![Profile](profile.jpg){: style="width:180px; border-radius:50%;" }
 
