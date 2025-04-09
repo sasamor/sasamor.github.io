@@ -4,6 +4,7 @@ title: About
 nav_order: 2
 ---
 {% include lang-switcher.html %}
+{% include nav-links.html %}
 
 <div class="lang-jp">
 ## 研究者情報
