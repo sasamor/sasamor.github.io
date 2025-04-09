@@ -1,0 +1,13 @@
+/* Hide/show blocks depending on selected language */
+[data-lang="jp"] .lang-en,
+[data-lang="en"] .lang-jp { display: none; }
+
+.lang-switcher {
+  float: right;
+  margin-top: -10px;
+}
+.lang-btn {
+  cursor: pointer;
+  margin-left: .5rem;
+  font-weight: bold;
+}
