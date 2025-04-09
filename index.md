@@ -3,10 +3,8 @@ layout: default
 title: Home
 nav_order: 1
 ---
-<div class="lang-switcher">
-  <span class="lang-btn" data-lang="jp">JP</span> |
-  <span class="lang-btn" data-lang="en">EN</span>
-</div>
+{% include lang-switcher.html %}
+{% include nav-links.html %}
 
 ![Profile](図1.png){: style="width:180px; border-radius:50%;" }
 
