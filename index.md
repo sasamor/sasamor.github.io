@@ -8,7 +8,7 @@ nav_order: 1
   <span class="lang-btn" data-lang="en">EN</span>
 </div>
 
-![Profile](profile.jpg){: style="width:180px; border-radius:50%;" }
+![Profile](図1.png){: style="width:180px; border-radius:50%;" }
 
 <div class="lang-jp">
 # ようこそ
